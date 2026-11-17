@@ -2,7 +2,7 @@
 
 Hi, I'm **Colin Lin** (GitHub **@linkangjun**).
 
-My personal website is **[linkangjun.com](https://linkangjun.com)**, where I publish projects and notes. My focus is AI agent execution reliability and RAG retrieval correctness.
+My personal website is **[linkangjun.pages.dev](https://linkangjun.pages.dev/zh/)**, where I publish projects and notes. My focus is AI agent execution reliability and RAG retrieval correctness.
 
 ## Projects
 
@@ -11,5 +11,5 @@ My personal website is **[linkangjun.com](https://linkangjun.com)**, where I pub
 
 ## Links
 
-- Website: https://linkangjun.com
+- Website: https://linkangjun.pages.dev
 - GitHub: https://github.com/linkangjun
